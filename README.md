@@ -4,7 +4,7 @@ I made this project in order to practice Node.js/Express, also working with Mong
 
 ---
 
-### Details
+### NPM Packages
 
 The API uses as dependencies @hapi/joi, bcryptjs, dotenv, express, jsonwebtoken and mongoose
 
